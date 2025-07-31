@@ -52,7 +52,7 @@ function Loader:_initUI()
     
     self.tabs.Main:AddButton({
         Title = " Fluent Pc/Mobile Script",
-        Description = "This is a Better Verion Meant For Pc But You can use it on Mobile. Add ing auto save Config For Afk grinding, More Fetuers.",
+        Description = "More Stuff Comming soon.",
         Callback = function()
             self:_loadScript("https://raw.githubusercontent.com/UnknownCodersonLT4/Roblox/refs/heads/main/ML/FluentVerion.lua")
         end
