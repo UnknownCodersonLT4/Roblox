@@ -1,6 +1,7 @@
 --[[
-    This is a Moddfied Version of Vxyon Ui Loader I do not take Full Owner Ship ofer ths so its open source 
-From : Slayerosn
+    This is a Moddfied Version of Vxyon UI Loader I do not take Full OwnerShip ofer ths so its open source 
+Full Credits To Vxyon
+From : Slayerson
 
 --]]
 
